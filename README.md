@@ -1,0 +1,1 @@
+trenovaní <ul> a <ol> 
