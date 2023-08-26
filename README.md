@@ -1,1 +1,1 @@
-trenovaní <ul> a <ol> 
+trenovaní seznamu ul a li pomocí receptu
